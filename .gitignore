@@ -25,6 +25,7 @@ ExportedObj/
 *.pdb
 *.mp3
 *.pdf
+*.png
 
 
 # Unity3D generated meta files
